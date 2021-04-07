@@ -1,1 +1,1 @@
-string data
+JointAngles[] trajectory
