@@ -1,0 +1,12 @@
+int64 roll
+int64 pitch
+int64 yaw
+int64 l_hip
+int64 l_knee
+int64 r_hip
+int64 r_knee
+int64 l_shoulder
+int64 l_elbow
+int64 r_shoulder
+int64 r_elbow
+int64 at_goal
