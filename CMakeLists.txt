@@ -37,6 +37,9 @@ find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Trajectory.msg"
   "msg/JointAngles.msg"
+  "msg/AckResponse.msg"
+  "msg/DataRequest.msg"
+  "msg/DataResponse.msg"
   "srv/SensorDataRequest.srv"
   "srv/JointAngles.srv"
  )
