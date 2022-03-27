@@ -6,3 +6,5 @@ int64 left_shoulder
 int64 left_elbow
 int64 right_shoulder
 int64 right_elbow
+int64 left_ankle
+int64 right_ankle
